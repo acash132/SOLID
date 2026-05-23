@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassLevelSingleResponsibilityPrinciple.cs" />
+    <Compile Include="PrivateConstructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="PropertiesEx.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
